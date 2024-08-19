@@ -1,1 +1,1 @@
-This a full expressjs and react app for note. Demo at https://notes-ouuj.onrender.com/
+This a full expressjs and react app for notes. Demo at https://notes-ouuj.onrender.com/
